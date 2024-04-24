@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x04,PinSocket_1x04_P2.54mm_Vertical,117.805,-103.8,0.0,bottom
+J2,Conn_01x04,PinSocket_1x04_P2.54mm_Vertical,100.025,-103.8,0.0,bottom
+U1,Nav_Button,Nav_Button_5x,109.1184,-103.6828,0.0,top
+U2,Slider,Slider,94.0562,-103.9368,270.0,top
